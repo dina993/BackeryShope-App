@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820534579544",
+    "project_id": "bakershopey-6a420",
+    "storage_bucket": "bakershopey-6a420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820534579544:android:bcba72f4b89fd03939952d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820534579544-n4iohk1pcb3j09tmu122fev1ca7lileq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTc9yXoqskmJLu_jT5wOffvt8Vln7X5PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820534579544-n4iohk1pcb3j09tmu122fev1ca7lileq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
